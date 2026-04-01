@@ -1,25 +1,26 @@
-Thanks for downloading this theme!
+This project implements a web-based application using HTML, PHP and a MySQL database that facilitates user registration, login, book management, and ordering processes.
+ It allows users to register, log in, browse and place orders.
 
-## Other Useful Links
+1. Home Page 
+- Displays the landing page of the Arcs of Books platform.
+- Users can browse available books, navigate categories, and explore featured titles.
+- Serves as the entry point for book discovery.
+![image alt](https://github.com/GanyaPoojary/Arcs_of_books/blob/main/home_books.png)
 
-**ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
+2. Order Book 
+- Shows the interface for placing a book order.
+- Users can select a book, confirm details, and proceed with the purchase.
+- Streamlines the process of ordering books online.
+![image alt](https://github.com/GanyaPoojary/Arcs_of_books/blob/main/order_book.png)
 
-To download free templates, follow this link: https://themewagon.com/theme_tag/free/
+3. Upload Book
+- Provides functionality for sellers to upload new books.
+- Includes fields for book title, author, description, and price.
+- Expands the catalog by allowing new entries.
+![image alt](https://github.com/GanyaPoojary/Arcs_of_books/blob/main/upload_book.png)
 
-Besides that, you can buy our premium templates for making your web development experience unforgettable.
-
-Visit the store from here: https://themewagon.com/theme-categories/premium-templates/
-
-Alternatively, here's our top most trending and selling items:
-
-* [**Sparrow**](https://themewagon.com/themes/sparrow/) - A multipurpose template made with Bootstrap 4.1 and world's finest animation.
-* [**Posh**](https://themewagon.com/themes/posh-html5-bootstrap-4-template/) - Bootstrap 4 template with a myriad number of ready-to-deploy sections. 
-* [**Elixir**](https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/) - Bootstrap 4 agency template. Best for smooth animated scrolling. 
-* [**Freya**](https://themewagon.com/themes/bootstrap-4-premium-interior-design-template-freya/) - Interior design template made with Bootstrap 4. 
-* [**Reign Pro**](https://themewagon.com/themes/reign-pro-premium-corporate-agency-html5-template/) - A corporate template with a visually unique design scheme. 
-* [**Boots4**](https://themewagon.com/themes/first-ever-bootstrap-4-template/) - One of the first Bootstrap 4 templates ever made on earth. 
-* [**Hideaway**](https://themewagon.com/themes/hideaway/) - A template for resorts. Built with Bootstrap 4. 
-* [**Baikal**](https://themewagon.com/themes/bootstrap-4-startup-small-business-website-template/) - A smart Bootstrap template for start-up. 
-* [**Mega Discount**](https://themewagon.com/themes/mega-discount-bundle/) - A bundle of 26 HTML5 templates; best value for your money. 
-
-
+4. View Book 
+- Displays detailed information about a selected book.
+- Includes book cover, description, author details, and price.
+- Helps users make informed decisions before ordering.
+![image alt](https://github.com/GanyaPoojary/Arcs_of_books/blob/main/view_book.png)
